@@ -1,6 +1,6 @@
 ### Hi, I'm Jude
 
-Transitioning from healthcare into IT Support and Cybersecurity. Based in Brighton and Hove, UK.
+Transitioning into IT Support and Cybersecurity. Based in Brighton and Hove, UK.
 
 **Currently:**
 - Building a Windows Server 2022 Active Directory home lab (DC promotion, OU structure, GPO)
